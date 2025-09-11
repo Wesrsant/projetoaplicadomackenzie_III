@@ -94,8 +94,6 @@ Como resultado do projeto, esperamos desenvolver:
 
 ---
 
-> **Nota**: Este projeto está em desenvolvimento progressivo. O README será atualizado conforme o avanço das entregas e implementações.
-
 ## 📚 Referências Iniciais
 
 - Organização das Nações Unidas (ONU). **Objetivos de Desenvolvimento Sustentável – ODS 9**: Indústria, Inovação e Infraestrutura. Disponível em: https://sdgs.un.org/goals/goal9
@@ -103,3 +101,5 @@ Como resultado do projeto, esperamos desenvolver:
 - Repositório do Projeto. GitHub - Projeto Aplicado III
 
 ---
+
+> **Nota**: Este projeto está em desenvolvimento progressivo. O README será atualizado conforme o avanço das entregas e implementações.
