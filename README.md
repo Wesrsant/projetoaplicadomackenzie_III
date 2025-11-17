@@ -94,11 +94,12 @@ Como resultado do projeto, esperamos desenvolver:
 
 ---
 
-## 📚 Referências Iniciais
+## 📚 Referências
 
 - Organização das Nações Unidas (ONU). **Objetivos de Desenvolvimento Sustentável – ODS 9**: Indústria, Inovação e Infraestrutura. Disponível em: https://sdgs.un.org/goals/goal9
 - Book Crossing Dataset. Disponível em: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset/data
 - Repositório do Projeto. GitHub - Projeto Aplicado III
+- Link para vídeo no Youtube: https://www.youtube.com/watch?v=mIjy1ngXkWk
 
 ---
 
